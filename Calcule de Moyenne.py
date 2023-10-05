@@ -1,4 +1,4 @@
-# Tiago
+# Créé par PEREIRA, le 05/10/2023 en Python 3.7
 # Importez les bibliothèques tkinter nécessaires
 import tkinter as tk
 from tkinter import messagebox
