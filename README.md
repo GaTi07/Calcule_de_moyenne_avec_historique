@@ -54,7 +54,7 @@ Cette version comprend les fonctionnalités suivantes :
 - **Gestion des Erreurs :**
   - Gère les erreurs pour une utilisation sans problème.
 
-**Note importante pour les utilisateurs d'Éduc Connect :** Si vous souhaitez utiliser Éduc Connect, vous devrez télécharger manuellement les bibliothèques nécessaires en exécutant les commandes suivantes :
+**Note importante pour les utilisateurs d'Éduc Python :** Si vous souhaitez utiliser Éduc Python, vous devrez télécharger manuellement les bibliothèques nécessaires en exécutant les commandes suivantes :
 
 ```markdown
 - pip install python-docx
