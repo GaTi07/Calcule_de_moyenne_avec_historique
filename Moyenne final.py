@@ -1,3 +1,5 @@
+# Créé par PEREIRA, le 06/10/2023 en Python 3.12
+
 import subprocess
 
 # Liste des bibliothèques à installer
